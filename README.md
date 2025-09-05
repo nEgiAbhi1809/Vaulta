@@ -22,6 +22,7 @@ Vaulta is a robust and secure MERN stack application demonstrating a complete au
 * **Mongo-sanitize** (protection against NoSQL injection)
 * **Modern Frontend** with React + Tailwind
 * **Automated Email Service** with Nodemailer
+* 🔐 Two-Factor Authentication (2FA) by requiring a time-based OTP (TOTP)
 
 ## 🛠️ Tech Stack
 
