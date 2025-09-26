@@ -131,4 +131,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 
 ---
 
-👉 Do you want me to also add a **"Future Improvements"** section (like 2FA with Authenticator apps, Docker setup, CI/CD) so recruiters see you’re thinking ahead?
+
